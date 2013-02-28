@@ -8,11 +8,6 @@ package titanic;
  *
  * @author Vincent
  */
-public class Classifier {
+public class test {
     
-            
-            void test2()
-            {
-                
-            }
 }
